@@ -1,1 +1,4 @@
+# gitignore for my page
+
 _site
+.sass-cache/
