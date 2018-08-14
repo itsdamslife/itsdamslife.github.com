@@ -12,10 +12,10 @@ I have around 12 years of experience in software industry. On a technical front 
 
 | companies | designation | timeline |
 |:----------|:------------|:---------|
-| Robosoft Technologies Pvt Ltd | Software Engineer | 2006 - 2009 |
-| Sourcebits Technologies Pvt Ltd | Senior Software Engineer | 2009 - 2011 |
-| Techjini Solutions Pvt Ltd | Senior Technical Lead | 2011 - 2016 |
-| VMware Software India Pvt Ltd | Senior MTS | `2016 - till date` |
+| [Robosoft Technologies Pvt Ltd](./companies/robosoft.html) | Software Engineer | 2006 - 2009 |
+| [Sourcebits Technologies Pvt Ltd](./companies/sourcebits.html) | Senior Software Engineer | 2009 - 2011 |
+| [Techjini Solutions Pvt Ltd](./companies/techjini.html) | Senior Technical Lead | 2011 - 2016 |
+| [VMware Software India Pvt Ltd](./companies/vmware.html) | Senior MTS | `2016 - till date` |
 
 ## Expertise Include:
 * Worked on consumer and enterprise applications on iOS / OS X platforms.
@@ -46,6 +46,13 @@ I have around 12 years of experience in software industry. On a technical front 
 I started this developing this app to learn and understand basics of web development and intricacies of server-client. I used MEAN stack for this product. I was successful in implementing a web server which serves POST, GET, PUT and DELETE methods to add, read, modify and delete recipes. I also developed a generic front end using Angular which can be used for basic blogging and apps like this recipe.
 
 Yet to do: Integrate this server part and the front end, add authentication using passport.js to make it end-to-end usable.
+
+`Blog Diary`
+
+This is frontend application using local storage. Its main functionality is to record, edit and delete personal journals  or say notes. This project I started just to learn and understand the nitty gritties of Angular.js and how it works.
+
+Yet to do: Create a backend server to store data on remote machines and access it on mobile platforms.
+
 
 ### Header 3
 
