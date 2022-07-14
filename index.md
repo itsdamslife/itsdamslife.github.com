@@ -15,7 +15,8 @@ I have around 12 years of experience in software industry. On a technical front 
 | Robosoft Technologies Pvt Ltd | Software Engineer | 2006 - 2009 |
 | Sourcebits Technologies Pvt Ltd | Senior Software Engineer | 2009 - 2011 |
 | Techjini Solutions Pvt Ltd | Senior Technical Lead | 2011 - 2016 |
-| VMware Software India Pvt Ltd | Senior MTS | `2016 - till date` |
+| VMware Software India Pvt Ltd | Senior MTS | 2016 - 2021 |
+| Citrix R&D India Pvt Ltd | Staff Software Engineer | `2021 - till date` |
 
 ## Expertise Include:
 * Worked on consumer and enterprise applications on iOS / OS X platforms.
